@@ -12,7 +12,7 @@ WeakIV.jl provides post-estimation tools for instrumental variables (IV) models,
 
 The package separates estimation from inference, allowing users to apply weak-instrument diagnostics, hypothesis tests, and confidence-set procedures to previously estimated models.
 
-The goal is to provide a unified and extensible Julia interface for classical and modern methods in the weak-IV literature following the reccomendation of [Lee and Porter (2026)](https://www.aeaweb.org/articles?id=10.1257/jep.20251464) 
+The goal is to provide a unified and extensible Julia interface for classical and modern methods in the weak-IV literature following the recomendation of [Lee and Porter (2026)](https://www.aeaweb.org/articles?id=10.1257/jep.20251464) 
 
 
 
